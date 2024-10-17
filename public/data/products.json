@@ -1,44 +1,65 @@
 [
   {
     "id": 1,
-    "title": "Thor Poster",
-    "image": "/images/odin-1.jpg",
+    "title": "Freya with Nordic Braids",
+    "image": "/images/freya.jpeg",
     "price": 299,
     "category": "Mythology"
   },
   {
     "id": 2,
-    "title": "Odin Poster",
-    "image": "/images/odin-1.jpg",
+    "title": "Thor with hammer",
+    "image": "/images/image-1.jpeg",
     "price": 349,
     "category": "Mythology"
   },
   {
     "id": 1,
-    "title": "Thor Poster",
-    "image": "/images/odin-1.jpg",
-    "price": 299,
+    "title": "Loki in the fjords",
+    "image": "/images/image-2.jpeg",
+    "price": 359,
     "category": "Mythology"
   },
   {
     "id": 2,
-    "title": "Odin Poster",
-    "image": "/images/odin-1.jpg",
-    "price": 349,
+    "title": "Loki in a viking ship",
+    "image": "/images/image-3.jpeg",
+    "price": 449,
     "category": "Mythology"
   },
   {
     "id": 1,
-    "title": "Thor Poster",
-    "image": "/images/odin-1.jpg",
-    "price": 299,
+    "title": "Loki in a battle",
+    "image": "/images/image-4.jpeg",
+    "price": 199,
+    "category": "Mythology"
+  },
+  {
+    "id": 2,
+    "title": "Freya",
+    "image": "/images/image-5.jpeg",
+    "price": 349,
     "category": "Mythology"
   },
   {
     "id": 2,
     "title": "Odin Poster",
-    "image": "/images/odin-1.jpg",
+    "image": "/images/loki.jpeg",
     "price": 349,
+    "category": "Mythology"
+  },
+  {
+    "id": 2,
+    "title": "Loki running",
+    "image": "/images/odin-1.jpg",
+    "price": 399,
+    "category": "Mythology"
+  },
+  {
+    "id": 2,
+    "title": "Thor Poster",
+    "image": "/images/thor.webp",
+    "price": 309,
     "category": "Mythology"
   }
 ]

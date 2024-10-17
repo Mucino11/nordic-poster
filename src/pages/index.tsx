@@ -22,7 +22,7 @@ export default function Home({ products }: HomeProps) {
   return (
     <>
       <Header />
-      <div className={styles.container}>
+      <main className={styles.container}>
         <h1>Nordic</h1>
         <p>Discover unique posters inspired by Norse mythology.</p>
 
@@ -47,7 +47,7 @@ export default function Home({ products }: HomeProps) {
             </div>
           ))}
         </div>
-      </div>
+      </main>
       <Footer />
     </>
   );
