@@ -1,0 +1,38 @@
+{
+  "Norway": [
+    {
+      "id": 1,
+      "title": "Odin Poster",
+      "image": "/images/odin.jpg",
+      "price": 250
+    },
+    {
+      "id": 2,
+      "title": "Fjord Sunset",
+      "image": "/images/fjord.jpg",
+      "price": 300
+    }
+  ],
+  "Sweden": [
+    {
+      "id": 3,
+      "title": "Viking Helmet Poster",
+      "image": "/images/viking-helmet.jpg",
+      "price": 200
+    },
+    {
+      "id": 4,
+      "title": "Northern Lights",
+      "image": "/images/northern-lights.jpg",
+      "price": 350
+    }
+  ],
+  "Denmark": [
+    {
+      "id": 5,
+      "title": "Thor's Hammer",
+      "image": "/images/thor.jpg",
+      "price": 275
+    }
+  ]
+}

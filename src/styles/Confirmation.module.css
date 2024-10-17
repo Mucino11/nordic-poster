@@ -1,0 +1,41 @@
+/* src/styles/Confirmation.module.css */
+
+.confirmationContainer {
+  padding: 2rem;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.confirmationTitle {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.confirmationMessage {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.confirmationInstructions {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+.shopMoreButton {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #0070f3;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.shopMoreButton:hover {
+  background-color: #005bb5;
+}

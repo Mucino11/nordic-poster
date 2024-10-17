@@ -1,0 +1,44 @@
+/* Header Styling */
+.header {
+  background-color: #333;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 30px;
+}
+
+/* Navigation Links */
+.nav {
+  display: flex;
+  gap: 20px; /* Adds space between items */
+}
+
+/* Align Home to the Left */
+.left {
+  margin-right: auto;
+}
+
+/* Link Styling */
+.link {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.link:hover {
+  color: #f0a500;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .header {
+    flex-direction: column;
+  }
+}

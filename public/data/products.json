@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Thor Poster",
+    "image": "/images/odin-1.jpg",
+    "price": 299,
+    "category": "Mythology"
+  },
+  {
+    "id": 2,
+    "title": "Odin Poster",
+    "image": "/images/odin-1.jpg",
+    "price": 349,
+    "category": "Mythology"
+  },
+  {
+    "id": 1,
+    "title": "Thor Poster",
+    "image": "/images/odin-1.jpg",
+    "price": 299,
+    "category": "Mythology"
+  },
+  {
+    "id": 2,
+    "title": "Odin Poster",
+    "image": "/images/odin-1.jpg",
+    "price": 349,
+    "category": "Mythology"
+  },
+  {
+    "id": 1,
+    "title": "Thor Poster",
+    "image": "/images/odin-1.jpg",
+    "price": 299,
+    "category": "Mythology"
+  },
+  {
+    "id": 2,
+    "title": "Odin Poster",
+    "image": "/images/odin-1.jpg",
+    "price": 349,
+    "category": "Mythology"
+  }
+]
