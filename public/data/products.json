@@ -14,49 +14,49 @@
     "category": "Mythology"
   },
   {
-    "id": 1,
+    "id": 3,
     "title": "Loki in the fjords",
     "image": "/images/image-2.jpeg",
     "price": 359,
     "category": "Mythology"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Loki in a viking ship",
     "image": "/images/image-3.jpeg",
     "price": 449,
     "category": "Mythology"
   },
   {
-    "id": 1,
+    "id": 5,
     "title": "Loki in a battle",
     "image": "/images/image-4.jpeg",
     "price": 199,
     "category": "Mythology"
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "Freya",
     "image": "/images/image-5.jpeg",
     "price": 349,
     "category": "Mythology"
   },
   {
-    "id": 2,
+    "id": 7,
     "title": "Odin Poster",
     "image": "/images/loki.jpeg",
     "price": 349,
     "category": "Mythology"
   },
   {
-    "id": 2,
+    "id": 8,
     "title": "Loki running",
     "image": "/images/odin-1.jpg",
     "price": 399,
     "category": "Mythology"
   },
   {
-    "id": 2,
+    "id": 9,
     "title": "Thor Poster",
     "image": "/images/thor.webp",
     "price": 309,
