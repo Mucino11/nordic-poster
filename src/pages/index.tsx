@@ -53,7 +53,7 @@ export default function Home({ products }: HomeProps) {
   );
 }
 
-// Fetch product data at build time
+// Fetch product data at build time.......
 export async function getStaticProps() {
   const host = process.env.NEXT_PUBLIC_HOST || "http://localhost:3000";
   const res = await fetch(`${host}/data/products.json`);
