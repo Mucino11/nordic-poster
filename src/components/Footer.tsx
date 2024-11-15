@@ -5,6 +5,8 @@ const Footer = () => {
   return (
     <footer className={styles.footer}>
       <p>&copy; 2024 Nordic Posters. All rights reserved.</p>
+      <p>&copy; 2024 Nordic Posters. All rights reserved.</p>
+      <p>&copy; 2024 Nordic Posters. All rights reserved.</p>
     </footer>
   );
 };
